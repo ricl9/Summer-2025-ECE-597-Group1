@@ -2,3 +2,4 @@
 ## Week 1-2 report:
 - literature review
 - data visualiaztion and preprocessing
+- basic dashboard
