@@ -3,3 +3,10 @@
 - literature review
 - data visualiaztion and preprocessing
 - basic dashboard
+
+
+
+**Install Environment**
+```zsh
+pip install -r requirements.txt
+```
