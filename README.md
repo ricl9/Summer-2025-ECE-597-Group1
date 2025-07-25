@@ -9,7 +9,10 @@
 
 Tahir Jamil / Chris Mclauglin
 1.	Data exploration (Old & New dataset)
-2.	Data Extraction & Data Analysis 
+2.	Data Extraction & Data Analysis
+3.  SVM implementation and analysis
+    a.  IF-IDF: 98.7%
+    b.  Bag of Words: 98.8%
 
 Ricky Lin / Zhang Zhang 
 1.	Logistic regression (20% Testing , 80% Training) _ TF-IDF 
